@@ -10,8 +10,7 @@ The EJUST Hotel Booking Website is designed to provide students and staff of the
 4. [Installation](#installation)
 5. [Usage](#usage)
 6. [API Endpoints](#api-endpoints)
-7. [Contributing](#contributing)
-8. [License](#license)
+7. [License](#license)
 
 ## Features
 
