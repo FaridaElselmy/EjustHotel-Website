@@ -84,6 +84,8 @@ This project is built using the following technologies:
 ![image](https://github.com/user-attachments/assets/fba72e5f-08da-41ba-9461-3d7de292da0a)
 ![image](https://github.com/user-attachments/assets/f7062a8b-5960-4314-bbbb-b4e77f2a1c48)
 ![image](https://github.com/user-attachments/assets/267ab25e-3b4c-4ada-b056-47fbcf03cd9e)
+![image](https://github.com/user-attachments/assets/c349928a-c64e-4fae-aa1b-20314c4a7454)
+
 
 
 
